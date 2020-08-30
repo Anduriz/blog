@@ -1,4 +1,13 @@
 body{
     text-align: center;
     font-family: arial;
+    color: green;
+    background-color: lightgray;
+}
+
+#container{
+    background-color: gray;
+    color: greenyellow;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
