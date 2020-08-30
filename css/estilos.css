@@ -2,12 +2,20 @@ body{
     text-align: center;
     font-family: arial;
     color: green;
-    background-color: lightgray;
 }
 
-#container{
+#header{
     background-color: gray;
     color: greenyellow;
     padding-top: 10px;
     padding-bottom: 10px;
+    box-shadow: 2px 2px 5px #999;
+}
+
+#container{
+    background-color: lightgray;
+    color: darkblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 2px 2px 5px #999;
 }
