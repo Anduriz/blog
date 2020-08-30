@@ -4,8 +4,13 @@ body{
 }
 
 #header{
+<<<<<<< HEAD
     background-color: black;
     color: orange;
+=======
+    background-color: darkblue;
+    color: skyblue;
+>>>>>>> rama_a
     padding-top: 10px;
     padding-bottom: 10px;
     box-shadow: 2px 2px 5px #999;
